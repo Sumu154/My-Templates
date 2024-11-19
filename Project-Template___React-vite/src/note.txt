@@ -31,3 +31,6 @@ Step by Step
 4. git init
    git add .
    then github desktope existing repo theke folder niye eshe baki shb githuber kaj korte parbo
+
+5. deploy -> npm run build
+             upload dist to netlify

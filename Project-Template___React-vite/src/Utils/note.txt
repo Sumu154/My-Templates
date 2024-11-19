@@ -1,0 +1,16 @@
+can hold a variety of reusable functions that enhance your development process
+util gula thik thak kaj kore naki ejpnne -> testUtils.js
+
+These utilities can cover tasks such as:
+
+  1. Performing mathematical calculations -> calculations
+  2. Formatting -> formatter
+  3. Handling API requests -> api
+  4. Validating inputs -> validators
+  5. Working with local storage -> storage
+  6. Use of helper functions -> Helpers
+  7. using hook for react project -> Hooks
+  
+
+
+

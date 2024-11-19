@@ -1,0 +1,33 @@
+1. main.jsx
+Used to render the entire React app into the DOM. Connects the React app to index.
+html using ReactDOM.createRoot.
+
+2. index.css
+Defines global styles for the app. Use it for base styles like 
+fonts, resets, or shared styling.
+
+3. App.jsx
+The main component of your app. Contains the structure and logic for your
+application.
+
+4. App.css
+Specific styles for the App.jsx component. Keeps component styling modular.
+
+
+
+***********
+main.jsx = Initial setup (rarely edited).
+App.jsx = Main workspace for app development.
+
+
+
+
+
+
+Step by Step
+1. Tailwind with vite set up 
+2. PropTypes install and add
+3. icons er jonne -> React icons
+4. git init
+   git add .
+   then github desktope existing repo theke folder niye eshe baki shb githuber kaj korte parbo

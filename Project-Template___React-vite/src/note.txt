@@ -23,14 +23,14 @@ App.jsx = Main workspace for app development.
 
 
 
-
-Step by Step
+     ** Step by Step **
 1. Tailwind with vite set up 
-2. PropTypes install and add
-3. icons er jonne -> React icons
-4. git init
+2. daisy ui set up  ......  require er red alert er jonne-> eslint er env te dibo [node: 'true']
+3. PropTypes install and add
+4. icons er jonne -> React icons
+5. react toastify -> install then toast nibo
+6. git init
    git add .
    then github desktope existing repo theke folder niye eshe baki shb githuber kaj korte parbo
 
-5. deploy -> npm run build
-             upload dist to netlify
+7. deploy -> npm run build

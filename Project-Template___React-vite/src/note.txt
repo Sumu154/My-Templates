@@ -29,6 +29,7 @@ App.jsx = Main workspace for app development.
 3. PropTypes install and add
 4. icons er jonne -> React icons
 5. react toastify -> install then toast nibo
+6. chart axis nite hole -> install recharts
 6. git init
    git add .
    then github desktope existing repo theke folder niye eshe baki shb githuber kaj korte parbo

@@ -26,6 +26,7 @@ App.jsx = Main workspace for app development.
      ** Step by Step **
 1. Tailwind with vite set up 
 2. daisy ui set up  ......  require er red alert er jonne-> eslint er env te dibo [node: 'true']
+3. react router set up kore nibo
 3. PropTypes install and add
 4. icons er jonne -> React icons
 5. react toastify -> install then toast nibo

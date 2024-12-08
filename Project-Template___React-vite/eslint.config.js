@@ -34,5 +34,10 @@ export default [
         { allowConstantExport: true },
       ],
     },
+
+    env: {
+      browser: true,
+      node: true, // <-- This line enables Node.js globals
+    },
   },
 ]
